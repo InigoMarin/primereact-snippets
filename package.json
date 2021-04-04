@@ -4,6 +4,10 @@
       {
         "language": "javascriptreact",
         "path": "./snippets/primereact.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/primereact.json"
       }
     ]
   }
