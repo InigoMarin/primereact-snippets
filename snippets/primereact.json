@@ -1,0 +1,7 @@
+{
+  "Primeract theme set": {
+    "prefix": "ptheme",
+    "body": "import 'primereact/resources/themes/saga-blue/theme.css';\nimport 'primereact/resources/primereact.min.css';\nimport 'primeicons/primeicons.css';",
+    "description": "Primereact theme set"
+  }
+}
