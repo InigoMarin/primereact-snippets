@@ -25,7 +25,7 @@
 
   "Primereact Toast function ": {
     "prefix": "pftoast",
-    "body": "  const showToast = (severityValue, summaryvalue, detailvalue) => {toast.current.show({severity: severityValue,summary: summaryvalue,detail: detailvalue}););",
+    "body": "  const showToast = (severityValue, summaryvalue, detailvalue) => {toast.current.show({severity: severityValue,summary: summaryvalue,detail: detailvalue});};",
     "description": "Primereact Toast import"
   }
 }
