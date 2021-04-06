@@ -3,5 +3,29 @@
     "prefix": "ptheme",
     "body": "import 'primereact/resources/themes/saga-blue/theme.css';\nimport 'primereact/resources/primereact.min.css';\nimport 'primeicons/primeicons.css';",
     "description": "Primereact theme set"
+  },
+
+  "Primereact Button import": {
+    "prefix": "pibutton",
+    "body": "import { Button } from 'primereact/button';",
+    "description": "Primereact Button import"
+  },
+
+  "Primereact Input Text import": {
+    "prefix": "piinputtext",
+    "body": "import { InputText } from 'primereact/inputtext';",
+    "description": "Primereact InputText import"
+  },
+
+  "Primereact toast import": {
+    "prefix": "pitoast",
+    "body": "import { Toast } from 'primereact/toast';",
+    "description": "Primereact Toast import"
+  },
+
+  "Primereact Toast function ": {
+    "prefix": "pftoast",
+    "body": "  const showToast = (severityValue, summaryvalue, detailvalue) => {toast.current.show({severity: severityValue,summary: summaryvalue,detail: detailvalue});",
+    "description": "Primereact Toast import"
   }
 }
